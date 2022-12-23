@@ -45,8 +45,10 @@ install_version() {
   (
     mkdir -p "$install_path"
 
+    # Create new virtualenv and activate it
     python3 -m venv "${install_path%/bin}"
     source "$install_path/activate"
+    # Install ansible
     python3 -m pip install ansible-core=="${version}"
 
     local tool_cmd
