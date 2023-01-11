@@ -3,7 +3,7 @@
 # asdf-ansible [![Build](https://github.com/kota65535/asdf-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/kota65535/asdf-ansible/actions/workflows/build.yml) [![Lint](https://github.com/kota65535/asdf-ansible/actions/workflows/lint.yml/badge.svg)](https://github.com/kota65535/asdf-ansible/actions/workflows/lint.yml)
 
 
-[ansible](https://github.com/ansible/ansible) plugin for the [asdf version manager](https://asdf-vm.com).
+[Ansible](https://github.com/ansible/ansible) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
